@@ -1,12 +1,13 @@
-package gÃ¼n1;
+package gün1;
 
-public class BirinciGÃ¼n {
+public class BirinciGün {
 
 	public static void main(String[] args) {
 		
-		System.out.println("birinci gÃ¼n");
+		System.out.println("birinci gün");
 		System.out.println("1. commit");
-		System.out.println("20:36 - ikinci gÃ¼n");
+		System.out.println("20:36 - ikinci gün");
+		System.out.println("20:50 ikinci gün");
 		
 
 	}
