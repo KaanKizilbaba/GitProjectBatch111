@@ -12,7 +12,8 @@ public class BirinciGün {
 		System.out.println("21.01 ikinci gun");
 		System.out.println("20:16 - local");
 		System.out.println("21:35 github.com");
-		System.out.println("localden yepyeni satýr");
+		System.out.println("Yepyeni bir satÄ±r");
+
 
 	}
 
