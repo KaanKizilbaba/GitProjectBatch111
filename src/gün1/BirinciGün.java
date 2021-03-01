@@ -1,10 +1,10 @@
-package gÃ¼n1;
+package gün1;
 
-public class BirinciGÃ¼n {
+public class BirinciGün {
 
 	public static void main(String[] args) {
 		
-		System.out.println("birinci gÃ¼n");
+		System.out.println("birinci gün");
 		System.out.println("1. commit");
 
 		System.out.println("20:36 - ikinci gun");
@@ -12,7 +12,7 @@ public class BirinciGÃ¼n {
 		System.out.println("21.01 ikinci gun");
 		System.out.println("20:16 - local");
 		System.out.println("21:35 github.com");
-
+		System.out.println("localden yepyeni satýr");
 
 	}
 
