@@ -9,6 +9,7 @@ public class BirinciGün {
 		System.out.println("20:36 - ikinci gün");
 		System.out.println("20:50 ikinci gün");
 		System.out.println("21.01 ikinci gün");
+		System.out.println("20:15 github.com");
 		
 
 	}
