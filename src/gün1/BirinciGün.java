@@ -15,6 +15,7 @@ public class BirinciGün {
 		System.out.println("Yepyeni bir satýr");
 		System.out.println("16:00 feature branch");
 		System.out.println("16:33 yepsyeni");
+		System.out.println("16:58 master");
 
 	}
 
